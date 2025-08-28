@@ -5,7 +5,7 @@
   "homepage": ".",
   "dependencies": {
     "@graphiql/toolkit": "0.9.1",
-    "graphiql": "3.0.6",
+    "graphiql": "3.4.1",
     "graphql": "16.8.1",
     "graphql-ws": "5.11.2",
     "lodash": "4.17.21",
